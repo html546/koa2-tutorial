@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/html546/koa2-tutorial/issues"
   },
-  "homepage": "https://github.com/html546/koa2-tutorial#readme"
+  "homepage": "https://github.com/html546/koa2-tutorial#readme",
+  "dependencies": {
+    "koa": "^2.6.1"
+  }
 }
